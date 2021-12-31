@@ -3,9 +3,10 @@ With CLIruby, you can run ruby code in one command. This can be used for simply 
 
 ## How To Install:
 
-Download the CLIruby file from this repo and run these commands:
+Execute these commands: 
 
 ```
+wget https://raw.githubusercontent.com/Matthiasclee/CLIruby/CLIruby/CLIruby -O ./CLIruby
 chmod +x ./CLIruby
 sudo mkdir /usr/local/CLIruby
 sudo mv ./CLIruby /usr/local/CLIruby
