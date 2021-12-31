@@ -6,6 +6,7 @@ With CLIruby, you can run ruby code in one command. This can be used for simply 
 Download the CLIruby file from this repo and run these commands:
 
 ```
+chmod +x ./CLIruby
 sudo mkdir /usr/local/CLIruby
 sudo mv ./CLIruby /usr/local/CLIruby
 export PATH=$PATH:/usr/local/CLIruby
